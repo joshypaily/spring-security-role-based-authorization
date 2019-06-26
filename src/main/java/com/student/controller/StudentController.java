@@ -1,4 +1,4 @@
-package com.indo.student.controller;
+package com.student.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
@@ -8,9 +8,9 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.indo.student.model.Users;
-import com.indo.student.service.StudentService;
-import com.indo.student.service.UserService;
+import com.student.model.Users;
+import com.student.service.StudentService;
+import com.student.service.UserService;
 
 @Controller
 public class StudentController {

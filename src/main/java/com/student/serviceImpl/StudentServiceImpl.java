@@ -1,4 +1,4 @@
-package com.indo.student.serviceImpl;
+package com.student.serviceImpl;
 
 import java.util.List;
 
@@ -6,9 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.indo.student.model.Student;
-import com.indo.student.repository.StudentRepository;
-import com.indo.student.service.StudentService;
+import com.student.model.Student;
+import com.student.repository.StudentRepository;
+import com.student.service.StudentService;
 
 @Service
 @Transactional

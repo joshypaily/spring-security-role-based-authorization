@@ -1,4 +1,4 @@
-package com.indo.student.security;
+package com.student.security;
 
 
 import java.util.Arrays;
@@ -11,8 +11,8 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 
-import com.indo.student.model.Users;
-import com.indo.student.repository.UserRepository;
+import com.student.model.Users;
+import com.student.repository.UserRepository;
 
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.indo.student.model;
+package com.student.model;
 
 
 import org.springframework.data.mongodb.core.mapping.Document;

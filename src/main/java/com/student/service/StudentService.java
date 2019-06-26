@@ -1,8 +1,8 @@
-package com.indo.student.service;
+package com.student.service;
 
 import java.util.List;
 
-import com.indo.student.model.Student;
+import com.student.model.Student;
 
 public interface StudentService {
 

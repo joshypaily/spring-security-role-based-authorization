@@ -1,4 +1,4 @@
-package com.indo.student.security;
+package com.student.security;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

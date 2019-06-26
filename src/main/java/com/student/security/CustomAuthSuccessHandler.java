@@ -1,4 +1,4 @@
-package com.indo.student.security;
+package com.student.security;
 
 import java.io.IOException;
 import java.util.Set;

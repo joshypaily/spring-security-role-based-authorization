@@ -1,4 +1,4 @@
-package com.indo.student;
+package com.student;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

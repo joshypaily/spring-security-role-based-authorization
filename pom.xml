@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.indo.student</groupId>
-	<artifactId>students-mongodb</artifactId>
+	<artifactId>students-mongodb-security</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>students-mongodb</name>

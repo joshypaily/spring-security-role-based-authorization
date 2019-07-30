@@ -34,9 +34,10 @@
 <body>
 
 <div class="navbar">
-  <a href="#">Admin  Home</a> 
-  <a href="#">show users</a>
-  <a href="#" id="logout"> Logout</a>
+  <a href="adminHome" >Admin Home</a> 
+  <a href="getUsers" >show users</a>
+  <a href="getStudents" >show Students</a>
+  <a href="logout" > Logout</a>
   </div> 
 </div>
 
@@ -45,4 +46,5 @@
 
 
 </body>
+
 </html>

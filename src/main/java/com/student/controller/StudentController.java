@@ -76,9 +76,21 @@ public class StudentController {
 	public String getStudents(Model model) {
 		
 		model.addAttribute("studentList", studentService.findAll());
-		
-		
 		return "studentList";
+	}
+	
+	@RequestMapping(value="/getUsers")
+	public String getUsers(Model model) {
+		
+		model.addAttribute("userList", userService.findAll());
+		return "usersList";
+	}
+	
+	@RequestMapping(value="/accessDenied")
+	public String accessDenied() {
+		
+		
+		return "accessDenied";
 	}
 	
 	@RequestMapping(value="/makeList")

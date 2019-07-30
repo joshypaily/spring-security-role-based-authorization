@@ -20,7 +20,7 @@ public class CustomAuthSuccessHandler extends SimpleUrlAuthenticationSuccessHand
 	public void onAuthenticationSuccess(HttpServletRequest request, HttpServletResponse response,
 			Authentication authentication) throws ServletException, IOException {
 
-		System.out.println("  onAuthenticationSuccess redirection         "  );
+		//System.out.println("  onAuthenticationSuccess redirection         "  );
 		
 		String adminHome = "/adminHome";
 		String userHome = "/userHome";

@@ -1,6 +1,6 @@
-# spring-security-with-mongodb-role-based-authentication 
+# spring-security-with-mongodb-role-based-authorization 
 
-This is an example of spring security role based authentication application.There are two roles "admin" and "user".Both have their own home page and access rights for this application. 
+This is an example of spring security role based authorization application.There are two roles "admin" and "user".Both have their own home page and access rights for this application. 
 
 ## Getting Started
 

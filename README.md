@@ -1,10 +1,10 @@
-# spring-security-with-mongodb-role-based-authorization 
+# spring-security-role-based-authorization 
 
 This is an example of spring security role based authorization application.There are two roles "admin" and "user".Both have their own home page and access rights for this application. 
 
 ## Getting Started
 
-clone this project to your IDE, thats it.
+clone this project,Open it in your IDE, run it.
 
 ### Prerequisites
 ```
@@ -47,9 +47,9 @@ user have "user" role can only access to "/getStudents".
 		
 ```
 
-## Built With
+## Referance
 
-* [www.callicoder.com](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/) - Referance
+* [www.callicoder.com](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/)
 
 
 

@@ -28,31 +28,31 @@ public class StudentServiceImpl implements StudentService{
 	public void makeList() {
 		
 		Student student=new Student();
-		student.setName("joshy");
+		student.setName("john doe");
 		student.setStandard("10");
 		student.setRollNo("11");
 		studentRepository.save(student);
 		
 		student=new Student();
-		student.setName("manu");
+		student.setName("manu mathew");
 		student.setStandard("11");
 		student.setRollNo("16");
 		studentRepository.save(student);
 		
 		student=new Student();
-		student.setName("anu");
+		student.setName("anu mathew");
 		student.setStandard("10");
 		student.setRollNo("8");
 		studentRepository.save(student);
 		
 		student=new Student();
-		student.setName("sonu");
+		student.setName("sonu ms");
 		student.setStandard("11");
 		student.setRollNo("41");
 		studentRepository.save(student);
 		
 		student=new Student();
-		student.setName("vishnu");
+		student.setName("vishnu vd");
 		student.setStandard("10");
 		student.setRollNo("50");
 		studentRepository.save(student);

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.student</groupId>
-	<artifactId>students-mongodb-security</artifactId>
+	<artifactId>spring-security-role-based-authorization</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>students-mongodb</name>

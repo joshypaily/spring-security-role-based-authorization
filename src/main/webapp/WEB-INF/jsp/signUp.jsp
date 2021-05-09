@@ -19,12 +19,11 @@
     <label for="password"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="password" required>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+<!--     <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required> -->
     
     <label for="role"><b>Select role</b></label>&nbsp;&nbsp;&nbsp;&nbsp;
     <select id="roleDropMenu" name="role">
-       <option value="select">Select</option>
       <option value="user">User</option>
       <option value="admin">Admin</option>
     </select>
